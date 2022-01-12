@@ -13,7 +13,7 @@ This repo contains a MATLAB simulink model that simulates the functions and feat
 
 -The Device controller Monitor is python based and can be hosted on any computer that can interface with the NXP FRDM-K64F embedded microcontroller using serial communication
 
-## Sample Output on Osciliiscope 
+## Sample output on Oscilloscope 
 <p align="center">
   <img src="images\Sample_Hardware_Output.PNG" alt="alt text" width="700" height="400">
 </p>
