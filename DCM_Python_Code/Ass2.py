@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import font
+from win2 import win2
 
 win = Tk() # creates blank window
 win.title("Welcome to the Pika Pacemaker")
@@ -150,6 +151,6 @@ def logging():
 submit= Button(win,text="Login", command=logging)
 submit.grid(row=4,column=4,columnspan=2)
 
-from win2 import win2
+
 
 win.mainloop()
