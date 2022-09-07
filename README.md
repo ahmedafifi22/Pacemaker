@@ -10,7 +10,6 @@ This repo contains a MATLAB simulink model that simulates the functions and feat
   <img src="images\Pacemaker_Hardware.jpg" alt="alt text" width="380" height="300">
 </p>
 
-
 -The Device controller Monitor is python based and can be hosted on any computer that can interface with the NXP FRDM-K64F embedded microcontroller using serial communication
 
 ## Sample output on Oscilloscope 
